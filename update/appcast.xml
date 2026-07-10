@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+    <title>【NomIME】Phương Viên - Bộ gõ Hán Nôm</title>
+    <link>http://bogo.hannom.org/release/nomime/appcast.xml</link>
+    <description>Kênh cập nhật Appcast của Phương Viên - NomIME</description>
+    <language>vi</language>
+    <item>
+      <title>NomIME 1.0.4</title>
+      <sparkle:releaseNotesLink>http://bogo.hannom.org/release/nomime/</sparkle:releaseNotesLink>
+      <pubDate>Wed, 04 Jun 2026 12:33:57 +0800</pubDate>
+      <enclosure url="https://github.com/VienChi/nomime/releases/download/1.0.4/nomime-1.0.4.0-installer.exe"
+                 sparkle:version="1.0.4"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
