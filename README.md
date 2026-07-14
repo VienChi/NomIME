@@ -25,7 +25,7 @@ Cài đặt bộ gõ
 
 Khi cài đặt lần đầu, trình cài đặt sẽ hiện hộp thoại "Tùy chọn cài đặt".
 
-Để đăng ký 【NomIME】 vào bố cục bàn phím Trung văn phồn thể (Đài Loan), hãy chọn "Trung văn (Đài Loan)" trong mục "Ngôn ngữ nhập liệu", rồi bấm nút "Cài đặt".
+Để đăng ký 【NomIME】 vào bố cục bàn phím Tiếng Việt (Việt Nam), hãy chọn "Tiếng Việt (Việt Nam)" trong mục "Ngôn ngữ nhập liệu", rồi bấm nút "Cài đặt".
 
 Sau khi cài đặt xong, vẫn có thể mở "Tùy chọn cài đặt" từ Start Menu để thay đổi ngôn ngữ nhập liệu.
 
@@ -45,24 +45,32 @@ Từ điển người dùng và tệp cấu hình nằm tại `%AppData%\NomIME`
 
 Sau khi sửa từ điển hoặc tệp cấu hình, cần "Triển khai lại" (Redeploy) để thay đổi có hiệu lực.
 
-Cách tùy chỉnh Rime, vui lòng tham khảo Wiki [《Hướng dẫn tùy chỉnh》](https://github.com/rime/home/wiki/CustomizationGuide). 
+Cách tùy chỉnh Phương Viên, vui lòng tham khảo Wiki Rime [《Hướng dẫn tùy chỉnh》](https://github.com/rime/home/wiki/CustomizationGuide). 
 
 Lời cảm ơn
 ----
 
 ### Thiết kế bảng gõ:
 
-  * Bộ 【朙月拼音】(Mingyue Pinyin) và từ điển 【八股文】
-    - Một phần dữ liệu lấy từ các dự án mã nguồn mở CC-CEDICT, Android 拼音, 新酷音, opencc, v.v.
+  * Bộ Hán Nôm
+    SinoNom gõ chữ Hán - Nôm kiểu Telex
+    - Một phần dữ liệu lấy từ các dự án chữ Nôm và từ điển.
+    - Người bảo trì: Viễn Chi
+  * Bính âm - Giản thể
+    - 朙月拼音 / Phương thức nhập Bính âm giản thể Trung Quốc.
     - Người bảo trì: 佛振, 瑾昀
-  * 【注音／地球拼音】
+  * Bính âm - Phồn thể
+    - 朙月拼音 / Phương thức nhập Bính âm phồn thể Trung Quốc.
     - Người bảo trì: 佛振, 瑾昀
+  * 【五笔】Ngũ bút
+    - h,s,p,n,z Biểu thị các nét hoành, thụ, phiết, nại, chiết
+    - Người bảo trì: 雪齋 <leoyoontsaw@gmail.com>, Kunki Chou <cokunhui@gmail.com>
   * 【倉頡五代】(Thương Hiệt ngũ đại)
     - Người phát minh: ông 朱邦復 (Chu Bang Phục)
     - Bảng mã lấy từ www.chinesecj.com
     - Tác giả bảng mã cấu từ: 惜緣
 
-  Các bảng gõ 【五笔】【粵拼】【上海／蘇州吳語】【中古漢語拼音】【國際音標】và nhiều bảng gõ khác
+  Ngoài ra còn nhiều bảng gõ khác
   không còn được đóng gói sẵn trong bộ cài. Có thể tải và cài đặt qua <https://github.com/rime/plum>.
 
 
